@@ -1,0 +1,5 @@
+	new file:   .gitignore
+	new file:   LICENSE
+	renamed:    Readme.md -> README.md
+	new file:   sample-csvs/two-lines-four-cols-with-headings.csv
+	new file:   sample-csvs/two-lines-four-cols.csv
